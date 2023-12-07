@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+}
+.Header-Heading{
+    text-align: center;
+    color: white;
+    
+}
+.Header-Heading input{
+    height: 32px;
+    width: 265px;
+    font-size: 20px;
+    
+}
+.main{
+    margin-top: 50px;
+}
+.button{
+    display: flex;
+    flex-direction:row;
+    font-size: 4rem;
+    justify-content: center;
+    
+}
+#button{
+    height: 61px;
+    width: 61px;
+    margin: 5px;
+    font-size: 2rem;
+    border-radius: 11px;
+    align-self: center;
+    background: whitesmoke
+}
+#zero{
+    width: 132px;
+}
